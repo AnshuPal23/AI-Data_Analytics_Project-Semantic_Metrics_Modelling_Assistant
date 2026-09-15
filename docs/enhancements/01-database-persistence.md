@@ -212,5 +212,3 @@ assert len(history) == 1
 - [ENHANCEMENT_RATIONALE.md](../../ENHANCEMENT_RATIONALE.md) - Why we made these changes
 
 ---
-
-*Last updated: January 3, 2026*
