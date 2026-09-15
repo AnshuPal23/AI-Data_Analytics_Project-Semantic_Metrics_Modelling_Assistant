@@ -407,6 +407,3 @@ def test_trend_calculation():
 - [database.py](../../semantic_metrics/database.py) - Add trust_score_history table
 - [ENHANCEMENT_RATIONALE.md](../../ENHANCEMENT_RATIONALE.md) - Why enhanced scoring matters
 
----
-
-*Last updated: January 3, 2026*
