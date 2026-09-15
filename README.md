@@ -2,9 +2,8 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![MCP](https://img.shields.io/badge/MCP-1.0-green.svg)](https://modelcontextprotocol.io)
-[![FastMCP](https://img.shields.io/badge/FastMCP-latest-orange.svg)](https://github.com/jlowin/fastmcp)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Tests](https://img.shields.io/badge/tests-35%2B%20passing-success.svg)](https://github.com/jkelleman/semantic-metrics-modeling-assistant)
+[![FastMCP](https://img.shields.io/badge/FastMCP-latest-orange.svg)]
+[![Tests](https://img.shields.io/badge/tests-35%2B%20passing-success.svg)]
 
 **A production-ready MCP agent that helps data teams define, validate, and visualize semantic metrics with enterprise-grade persistence, trust scoring, and BI integrations.**
 
@@ -346,23 +345,3 @@ This represents the kind of human-centered design that enterprise data platforms
 ✅ **Test Suite** - 35+ tests with pytest and 90%+ coverage
 
 See [IMPLEMENTATION_SUMMARY.md](IMPLEMENTATION_SUMMARY.md) for complete technical details.
-
-## About
-
-**Jen Kelleman**  
-Staff Product Designer
-
-I design AI and data experiences that reduce cognitive load and build trust through transparent, well-instrumented systems.
-
-### Connect
-- [LinkedIn](https://linkedin.com/in/jenniferkelleman)
-- [Medium](https://jenkelleman.medium.com)
-- [AI Content Design Handbook](https://jkelleman.github.io/ai-content-design-handbook/)
-
-### Other Projects
-- **[MCP-Oreilly](https://github.com/jkelleman/MCP-Oreilly)** - Three production MCP agents for content design, meeting analysis, and documentation
-- **[AI Content Design Handbook](https://github.com/jkelleman/ai-content-design-handbook)** - Comprehensive guide to UX writing for AI systems
-
----
-
-**Making data governance human-centered, one metric at a time.**
