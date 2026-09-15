@@ -423,7 +423,3 @@ def test_full_looker_workflow():
 - [server.py](../../semantic_metrics/server.py) - Main MCP server (needs tool additions)
 - [database.py](../../semantic_metrics/database.py) - Database access for metric retrieval
 - [ENHANCEMENT_RATIONALE.md](../../ENHANCEMENT_RATIONALE.md) - Why BI integrations matter
-
----
-
-*Last updated: January 3, 2026*
