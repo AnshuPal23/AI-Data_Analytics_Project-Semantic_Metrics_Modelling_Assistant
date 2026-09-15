@@ -2,8 +2,8 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![MCP](https://img.shields.io/badge/MCP-1.0-green.svg)](https://modelcontextprotocol.io)
-[![FastMCP](https://img.shields.io/badge/FastMCP-latest-orange.svg)]
-[![Tests](https://img.shields.io/badge/tests-35%2B%20passing-success.svg)]
+![FastMCP](https://img.shields.io/badge/FastMCP-latest-orange.svg)
+![Tests](https://img.shields.io/badge/tests-35%2B%20passing-success.svg)
 
 **A production-ready MCP agent that helps data teams define, validate, and visualize semantic metrics with enterprise-grade persistence, trust scoring, and BI integrations.**
 
