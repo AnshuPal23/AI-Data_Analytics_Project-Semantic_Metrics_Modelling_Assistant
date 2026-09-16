@@ -78,7 +78,3 @@ sync_from_dbt_cloud(
 ✅ **Single Source of Truth** - dbt remains authoritative  
 ✅ **Continuous Sync** - Keep definitions in sync  
 ✅ **ROI** - Leverage existing dbt investment  
-
----
-
-*Last updated: January 3, 2026*
