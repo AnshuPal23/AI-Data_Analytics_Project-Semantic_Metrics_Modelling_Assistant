@@ -106,6 +106,3 @@ Shows a beautiful flowchart with:
 - [server.py](../../semantic_metrics/server.py) - New `generate_mermaid_diagram()` tool
 - [02-bi-integrations.md](02-bi-integrations.md) - Similar export functionality
 
----
-
-*Last updated: January 3, 2026*
