@@ -554,7 +554,3 @@ These enhancements transform the Semantic Metrics Modeling Assistant from a **pr
  Is easy to adopt (packaging, guides)  
 
 The result: A tool that data teams actually use daily, not just try once and abandon.
-
----
-
-*Last updated: January 3, 2026*
