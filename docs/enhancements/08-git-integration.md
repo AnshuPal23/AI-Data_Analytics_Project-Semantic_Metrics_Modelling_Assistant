@@ -98,6 +98,3 @@ update_metric("revenue_total", {"owner": "@new-team"})
 ✅ **Collaboration** - Use Git workflows teams know  
 ✅ **Diff Visualization** - Rich diffs in GitHub/GitLab  
 
----
-
-*Last updated: January 3, 2026*
