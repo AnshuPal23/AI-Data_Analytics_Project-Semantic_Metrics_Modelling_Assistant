@@ -221,7 +221,3 @@ Expected: LookML syntax output
 - [ ] Record 5-minute setup video
 - [ ] Add to README and docs site
 - [ ] Show common workflows
-
----
-
-*Last updated: January 3, 2026*
